@@ -68,3 +68,5 @@ guessedNumber(): Generates the random number to guess.
 setTries(): Sets the number of tries based on the chosen difficulty.
 theGame(): The main game loop where the player makes guesses.
 main() function: Runs the game, handles restarting the game, and exits when the player chooses not to play again.
+
+Project URL: **https://roadmap.sh/projects/number-guessing-game**
